@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.d813bdcd.js",
-    "static/js/592.895a572f.chunk.js": "/static/js/592.895a572f.chunk.js",
-    "static/media/WhatsApp Image 2024-02-08 at 22.57.29_d82e8d60.jpg": "/static/media/WhatsApp Image 2024-02-08 at 22.57.29_d82e8d60.e39ad84a131a26f67607.jpg",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.d813bdcd.js.map": "/static/js/main.d813bdcd.js.map",
-    "592.895a572f.chunk.js.map": "/static/js/592.895a572f.chunk.js.map"
+    "main.css": "/mern_90/static/css/main.f855e6bc.css",
+    "main.js": "/mern_90/static/js/main.43e884ec.js",
+    "static/js/592.895a572f.chunk.js": "/mern_90/static/js/592.895a572f.chunk.js",
+    "static/media/WhatsApp Image 2024-02-08 at 22.57.29_d82e8d60.jpg": "/mern_90/static/media/WhatsApp Image 2024-02-08 at 22.57.29_d82e8d60.e39ad84a131a26f67607.jpg",
+    "index.html": "/mern_90/index.html",
+    "main.f855e6bc.css.map": "/mern_90/static/css/main.f855e6bc.css.map",
+    "main.43e884ec.js.map": "/mern_90/static/js/main.43e884ec.js.map",
+    "592.895a572f.chunk.js.map": "/mern_90/static/js/592.895a572f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d813bdcd.js"
+    "static/js/main.43e884ec.js"
   ]
 }
